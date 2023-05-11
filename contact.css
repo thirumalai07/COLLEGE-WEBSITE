@@ -2,7 +2,7 @@
     margin:0;
 }
 body{
-    background-image: url("/projects/images/contact4.jpg");
+    background-image: url("images/contact4.jpg");
     background-size: cover; 
 }
 .a1{
