@@ -34,7 +34,7 @@ a{
     padding: 20px;
     background-color: rgb(105, 88, 82);
     text-align:center;
-    background-image: url("/projects/images/bgmain.jpg");
+    background-image: url("images/bgmain.jpg");
     background-size: cover;
   }
   body{    
