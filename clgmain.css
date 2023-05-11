@@ -1,0 +1,126 @@
+
+*{
+    margin:0;
+  }
+  .a1{
+    display:flex;
+    text-decoration: none;
+  }
+  a:hover{
+    color: rgb(233, 45, 17);
+  }
+  li{
+    top: 0;
+    float:left;
+    border-radius: 5px;
+  }
+  a{
+    color:rgb(249, 244, 247);
+    border-radius: 4px;
+    text-decoration:none;
+  }
+    .box:hover{
+      box-shadow: 3px 3px 3px 3px rgb(240, 14, 14);
+    }
+    .stsize{
+      width: 240px;
+      height: 230px;
+      margin-left: 30px;
+    }
+    .full{
+      padding: 0px;
+    }
+    .img:hover{
+      border-image-outset: 3px 3px 3px 3px rgb(105, 95, 190);
+      
+    }
+    .btn1:hover{
+      padding-right: 10px;
+      width: 300px;
+      border-radius: 45px;
+      background-color: rgb(7, 7, 247);
+      border-style: groove;
+      transition: 5s;
+    }
+    .btn1{
+      background-color: rgb(31, 211, 79);
+      font-family: 'Lucida Sans';
+      margin-left: 20px;
+      padding: 10px 10px;
+      border-radius: 20px;
+    }
+    .box{
+      margin: 0px;
+      padding: 0px;
+      margin-top: 30px;
+      margin-left: center;
+      box-sizing: border-box;
+      height:700px;
+      width: 100%;
+      margin-left:0px;
+      padding: 20px;
+      background-color: rgb(75, 66, 63);
+      text-align:center;
+      font-family:Impact, 'Arial Narrow Bold', sans-serif;
+      background-image: url("/projects/images/iit\ 2.jpeg")repeat;
+      background-size: cover;
+    }
+    .box1{
+      margin: 0px;
+      padding: 0px;
+      margin-top: 30px;
+      margin-left: center;
+      box-sizing: border-box;
+      height:700px;
+      width: 100%;
+      margin-left:0px;
+      padding: 20px;
+      background-color: rgb(57, 51, 63);
+      text-align:center;
+      font-family:Impact, 'Arial Narrow Bold', sans-serif;
+      background-image: url("/projects/images/iit\ 2.jpeg")repeat;
+      background-size: cover;
+    }
+    .box1:hover{
+      box-shadow: 3px 3px 3px 3px rgb(205, 205, 207);
+    }
+    .box2{
+      margin: 0px;
+      padding: 0px;
+      margin-top: 30px;
+      margin-left: center;
+      box-sizing: border-box;
+      height:580px;
+      width: 100%;
+      margin-left:0px;
+      padding: 20px;
+      background-color: rgb(161, 164, 210);
+      text-align:center;
+      font-family:Impact, 'Arial Narrow Bold', sans-serif;
+      background-image: url("/projects/images/iit\ 2.jpeg")repeat;
+      background-size: cover;
+    }
+    .box2:hover{
+      box-shadow: 3px 3px 3px 3px rgb(224, 224, 231);
+    }
+    .box3{
+      height: 500px;
+    }
+    .box3:hover{
+      box-shadow: 3px 3px 3px 3px rgb(235, 235, 238);
+    }
+    .box:hover{
+      box-shadow: 3px 3px 3px 3px rgb(134, 134, 248);
+    }
+    body{
+      background-color: rgb(29, 27, 27);
+    }
+    .trial{
+      background-color: rgba(22, 15, 15, 0.337);
+      height: 100px;
+      width: 100%;
+    }
+    .footi{
+      color: white; 
+       margin-right:90%;
+    }

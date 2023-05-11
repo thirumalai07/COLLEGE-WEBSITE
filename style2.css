@@ -1,0 +1,71 @@
+*{
+  margin:0;
+}
+.a1{
+  font-size: none;
+  display:flex;
+  font-family:'Courier New', Courier, monospace;
+}
+a:hover{
+  color: rgb(240, 19, 12);
+  font-family: 'Courier New', Courier, monospace;
+}
+.li{
+  list-style-type:none;
+}
+li{
+  top: 0;
+  background-color: black;
+  float:left;
+}
+a{
+  color:azure;
+
+  text-decoration:double;
+}
+.box{
+    margin-top: 80px;
+    margin-left: center;
+    box-sizing: border-box;
+    height:460px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left:40px;
+    padding: 20px;
+    background-color: rgb(105, 88, 82);
+    text-align:center;
+    background-image: url("/projects/images/bgmain.jpg");
+    background-size: cover;
+  }
+  body{    
+    background-image: url('/projects/images/collegemain.jpg');
+    background-size: cover;
+    
+   
+  }
+  .img{
+    margin-left: 380px;
+    margin-top: 100px;
+    background-image:url("collegemain.jpg");
+    display: flex;
+  }
+  .box:hover{
+    box-shadow: 3px 3px 3px 3px rgb(105, 95, 191);
+  }
+  .stsize{
+    width: 250px;
+    height: 245px;
+    margin-left: 30px;
+    margin-top: 30px;
+  }
+  .btn1{
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: rgb(10, 136, 43);
+    border-style: none;
+    color: white;
+    font-weight: 600;
+    margin-top:40px;
+
+  }
